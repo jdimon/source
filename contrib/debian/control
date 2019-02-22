@@ -23,8 +23,8 @@ Build-Depends: debhelper,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
 Homepage: http://www.graphcoin.io
-Vcs-Git: git://github.com/graphcoin-coin/Graphcoin.git
-Vcs-Browser: https://github.com/graphcoin-coin/Graphcoin
+Vcs-Git: git://github.com/Graphcoin/source.git
+Vcs-Browser: https://github.com/Graphcoin/source
 
 Package: graphcoind
 Architecture: any

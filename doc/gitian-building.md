@@ -281,7 +281,7 @@ Clone the git repositories for graphcoin and gitian and then checkout the graphc
 
 ```bash
 git clone https://github.com/devrandom/gitian-builder.git
-git clone https://github.com/graphcoin-coin/graphcoin.git
+git clone https://github.com/Graphcoin/source.git
 cd graphcoin
 git checkout v${VERSION}
 cd ..

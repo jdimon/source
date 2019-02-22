@@ -42,7 +42,7 @@ The following are developer notes on how to build Graphcoin on your native platf
 
 Development
 ---------------------
-The Graphcoin repo's [root README](https://github.com/graphcoin-coin/Graphcoin/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Graphcoin repo's [root README](https://github.com/Graphcoin/source/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)

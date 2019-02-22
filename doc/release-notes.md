@@ -1,10 +1,10 @@
 Graphcoin Core version 3.0.6 is now available from:
 
-Graphcoin Core version *version* is now available from:  <https://github.com/graphcoin-coin/Graphcoin/releases>
+Graphcoin Core version *version* is now available from:  <https://github.com/Graphcoin/source/releases>
 
 This is a new major version release, including various bug fixes and performance improvements, as well as updated translations.
 
-Please report bugs using the issue tracker at github: <https://github.com/graphcoin-coin/Graphcoin/issues>
+Please report bugs using the issue tracker at github: <https://github.com/Graphcoin/source/issues>
 
 
 Mandatory Update
