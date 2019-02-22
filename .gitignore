@@ -1,4 +1,4 @@
-
+.gitignore
 *.sublime-project
 *.sublime-workspace
 todo.txt
@@ -7,12 +7,12 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/graphcoin
-src/graphcoind
-src/graphcoin-cli
-src/graphcoin-tx
-src/test/test_graphcoin
-src/qt/test/test_graphcoin-qt
+src/pivx
+src/pivxd
+src/pivx-cli
+src/pivx-tx
+src/test/test_pivx
+src/qt/test/test_pivx-qt
 
 # autoreconf
 Makefile.in
@@ -38,12 +38,14 @@ confdefs.h
 conftest.cpp
 conftest.err
 libtool
-src/config/graphcoin-config.h
-src/config/graphcoin-config.h.in
+src/config/pivx-config.h
+src/config/pivx-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
 contrib/devtools/split-debug.sh
+
+src/univalue/gen
 
 src/qt/*.moc
 src/qt/moc_*.cpp
@@ -63,7 +65,7 @@ src/qt/test/moc*.cpp
 *.o
 *.o-*
 *.patch
-.graphcoin
+.pivx
 *.a
 *.pb.cc
 *.pb.h
@@ -72,7 +74,7 @@ src/qt/test/moc*.cpp
 *.trs
 *.dmg
 
-#*.json.h
+*.json.h
 *.raw.h
 
 #libtool object files
@@ -82,12 +84,13 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-graphcoin-qt
-Graphcoin-Qt.app
+pivx-qt
+PIVX-Qt.app
+background.tiff*
 
 # Unit-tests
 Makefile.test
-graphcoin-qt_test
+pivx-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -103,7 +106,7 @@ build
 #lcov
 *.gcno
 /*.info
-test_deviant.coverage/
+test_pivx.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -111,6 +114,8 @@ coverage_percent.txt
 linux-coverage-build
 linux-build
 win32-build
+test/config.ini
+test/cache/*
 qa/pull-tester/run-bitcoind-for-test.sh
 qa/pull-tester/tests-config.sh
 qa/pull-tester/cache/*
@@ -122,18 +127,7 @@ qa/pull-tester/test.*/*
 .project
 /doc/doxygen/
 /nbproject/
-
+libbitcoinconsensus.pc
 .idea
 CMakeLists.txt
 cmake-build-debug
-
-/background.tiff
-/background.tiff.png
-/background.tiff@2x.png
-
-.vs/ProjectSettings.json
-.vs/slnx.sqlite
-.vs/source-1/v15/Browse.VC.db
-.vs/source-1/v15/Browse.VC.opendb
-.vs/source-1/v15/ipch/AutoPCH/575198287f33103b/CLIENTVERSION.ipch
-.vs/source-1/v15/.suo
