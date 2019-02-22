@@ -5745,8 +5745,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Lade Sporks...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Lade Wallet... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Lade Wallet... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

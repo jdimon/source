@@ -1,5 +1,5 @@
 ---
-name: "graphcoin-aarch64-3.2"
+name: "graphcoin-aarch64-3.1.0"
 enable_cache: true
 suites:
 - "xenial"

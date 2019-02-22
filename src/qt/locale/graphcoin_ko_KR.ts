@@ -5623,8 +5623,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>sporks 로딩중...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>지갑을 불러오는 중… (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>지갑을 불러오는 중… (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

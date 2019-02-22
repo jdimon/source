@@ -4630,8 +4630,8 @@ for example: alertnotify=echo %%s | mail -s "Graphcoin Alert" admin@foo.com
         <translation>Loading masternode payment cache...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Loading wallet... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Loading wallet... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

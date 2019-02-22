@@ -7338,8 +7338,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation type="unfinished">Loading wallet... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation type="unfinished">Loading wallet... (%3.1f %%)</translation>
     </message>
     <message>
         <location line="+1"/>

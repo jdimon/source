@@ -5595,8 +5595,8 @@ También mint las denominaciones más altas (por lo tanto, se necesitan menos da
         <translation>Cargando sporks...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Cargando monedero: (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Cargando monedero: (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

@@ -5583,8 +5583,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Зареждане на вилицо-лъжици...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Зареждане на портфейла... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Зареждане на портфейла... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

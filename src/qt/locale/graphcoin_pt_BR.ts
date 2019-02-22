@@ -4050,8 +4050,8 @@ https://www.transifex.com/graphcoin-project/graphcoin-project-translations</tran
         <translation>Carregando o cachê de pagamento do masternode...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Carregando carteira... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Carregando carteira... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

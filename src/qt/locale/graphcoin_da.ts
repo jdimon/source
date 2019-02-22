@@ -5595,8 +5595,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Indlæser sporks ...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Indlæser tegnebog... (%3.2f%%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Indlæser tegnebog... (%3.1f%%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

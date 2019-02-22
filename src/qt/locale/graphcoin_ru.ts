@@ -5591,8 +5591,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Загрузка ...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Загрузка кошелька ... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Загрузка кошелька ... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

@@ -2004,8 +2004,8 @@
         <translation>S'està carregant l'índex de blocs...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>S'està carregant el moneder... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>S'està carregant el moneder... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

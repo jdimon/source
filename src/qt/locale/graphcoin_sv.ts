@@ -5138,8 +5138,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel privat nyckel</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Laddar plånbok... (%3.2f%%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Laddar plånbok... (%3.1f%%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

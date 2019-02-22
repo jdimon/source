@@ -7,12 +7,12 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/pivx
-src/pivxd
-src/pivx-cli
-src/pivx-tx
-src/test/test_pivx
-src/qt/test/test_pivx-qt
+src/graphcoin
+src/graphcoind
+src/graphcoin-cli
+src/graphcoin-tx
+src/test/test_graphcoin
+src/qt/test/test_graphcoin-qt
 
 # autoreconf
 Makefile.in
@@ -38,8 +38,8 @@ confdefs.h
 conftest.cpp
 conftest.err
 libtool
-src/config/pivx-config.h
-src/config/pivx-config.h.in
+src/config/graphcoin-config.h
+src/config/graphcoin-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -106,7 +106,7 @@ build
 #lcov
 *.gcno
 /*.info
-test_pivx.coverage/
+test_graphcoin.coverage/
 total.coverage/
 coverage_percent.txt
 

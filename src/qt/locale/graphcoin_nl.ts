@@ -5755,8 +5755,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Sporks laden...</translation>
     </message>
     <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Portemonnee laden... (%3.2f %%)</translation>
+        <source>Loading wallet... (%3.1f %%)</source>
+        <translation>Portemonnee laden... (%3.1f %%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
