@@ -4740,7 +4740,7 @@ bool CWallet::CreateZerocoinSpendTransaction(CAmount nValue, int nSecurityLevel,
             vSelectedMints.emplace_back(mint);
         }
     } else {
-        for (const CZerocoinMint mint : vSelectedMints)
+        for (const CZerocoinMint& mint : vSelectedMints)
             nValueSelected += ZerocoinDenominationToAmount(mint.GetDenomination());
     }
 
